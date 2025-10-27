@@ -32,6 +32,7 @@ requirements:
     - cython
     - pip
     - re2
+    - setuptools
   run:
     - python
     - re2
